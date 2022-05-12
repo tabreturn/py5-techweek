@@ -24,8 +24,6 @@ Here are the files for each task:
 
 "py5 is a new version of Processing for Python 3.8+. It makes the Java Processing jars available to the CPython interpreter using JPype. It can do just about everything Processing can do, except with Python instead of Java code."
 
-"py5 is a new version of Processing for Python 3.8+. It makes the Java Processing jars available to the CPython interpreter using JPype. It can do just about everything Processing can do, except with Python instead of Java code."
-
 * [py5 cheatsheet](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf)
 * [py5 documentation](http://py5.ixora.io/)
 * [py5 examples](https://github.com/hx2A/py5examples)
