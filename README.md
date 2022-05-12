@@ -34,6 +34,8 @@ Here are the files for each task:
 
 The [Processing forum](https://discourse.processing.org/c/processing-py/9) is also great for help with anything Processing + Python related.
 
+If you're looking for a more advanced follow-on to this session, you can watch the Virtual CC Fest 2022 session on [Generating SVG for Pen Plotters using Python](https://github.com/tabreturn/cc-fest-plotter).
+
 
 ## Useful plotter utilities
 
@@ -78,6 +80,6 @@ Other useful plotter and Python creative coding resources:
 
 * [PlotterFiles](https://plotterfiles.com/) hosts free SVG files for plotters and drawing robots
 
-[Learn Python Visually](https://nostarch.com/Learn-Python-Visually) is a book based on [Processing.py](https://py.processing.org/), but it should be relatively straight-forward adapting the content for py5. Everything `camelCase` switches to `snake_case` -- so, `colorMode()` becomes `color_mode()`, and so forth. I ~~plan~~ hope to adapt the book for py5 in 2022/23.
+[Learn Python Visually](https://nostarch.com/Learn-Python-Visually) is a book based on [Processing.py](https://py.processing.org/), but it should be relatively straight-forward adapting the content for py5. Everything `camelCase` switches to `snake_case` -- so, `colorMode()` becomes `color_mode()`, and so forth. There is ~~a plan~~ hope to adapt the book for py5 in 2022/23.
 
 * Learn Python Visually [GitHub repository](https://github.com/tabreturn/processing.py-book) for the book's official resources and code, as well as solutions to challenges.
