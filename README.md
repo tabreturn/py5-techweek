@@ -2,6 +2,8 @@
 
 *Resources for Techweek workshop on pen-plotting weaving-inspired designs with Python*
 
+Event details: https://techweek.co.nz/whats-on/programme/view/pen-plotting-weaving-inspired-designs-with-python-67
+
 ![](banner.png)
 
 
