@@ -7,17 +7,15 @@
 
 ## Session activities and materials
 
-*W.I.P*
-
-<!--
-Here are the **session slides** and **session recording**: [slides.pdf](https://raw.githubusercontent.com/tabreturn/cc-fest-plotter/main/slides.pdf) and [recording.mp4](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tabreturn/cc-fest-plotter/main/recording.html)
+Here are the [session slides](https://raw.githubusercontent.com/tabreturn/py5-techweek/main/slides.odp) (OpenDocument presentation format) and [session recording](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tabreturn/py5-techweek/main/recording.html) (MP4).
 
 Here are the files for each task:
 
-**Task 1: SVG concepts** -- [01-svg_concepts.svg](https://github.com/tabreturn/cc-fest-plotter/blob/main/tasks/01-svg_concepts.svg?short_path=b06e63b)
+* **Task 1: Drawing with py5** -- [01-drawing.py](https://github.com/tabreturn/py5-techweek/blob/main/tasks/01-drawing.py)
 
-...
--->
+* **Task 2: Weaving Template** -- [02-template.py](https://github.com/tabreturn/py5-techweek/blob/main/tasks/02-template.py)
+
+If you're looking for a more advanced follow-on to this session, you can watch the *Virtual CC Fest 2022* session on [Generating SVG for Pen Plotters using Python](https://github.com/tabreturn/cc-fest-plotter).
 
 
 ## Resources for py5
@@ -31,8 +29,6 @@ Here are the files for each task:
 * [thonny-py5mode plug-in](https://github.com/tabreturn/thonny-py5mode)
 
 The [Processing forum](https://discourse.processing.org/c/processing-py/9) is also great for help with anything Processing + Python related.
-
-If you're looking for a more advanced follow-on to this session, you can watch the Virtual CC Fest 2022 session on [Generating SVG for Pen Plotters using Python](https://github.com/tabreturn/cc-fest-plotter).
 
 
 ## Useful plotter utilities
@@ -59,7 +55,7 @@ A handy (but hardly complete) list of useful software for working with plotter a
 I recommend exploring [drawingbots.net](https://drawingbots.net/), which is on a mission "to become the central place on the web to discover the world of drawing robots, get inspiration, and talk to other drawing robot enthusiasts."
 
 
-## Inspiration
+## Plotter-art inspiration
 
 A few (of the many) artists creating inspiring plotter art --
 
@@ -67,7 +63,7 @@ A few (of the many) artists creating inspiring plotter art --
 
 The [Anne and Michael Spalter Digital Art Collection](https://spalterdigital.com/) includes plotter artwork from several groundbreaking artists (Vera Molnar, Frieder Nake, Georg Nees, ...)
 
-Also, check Twitter for [#plottertwitter](https://twitter.com/search?q=%2523plottertwitter), [#py5](https://twitter.com/search?q=%2523plottertwitter), and [#generativeart + #blender](https://twitter.com/search?q=%2523generativeart%20%2523blender).
+Also, check Twitter for [#plottertwitter](https://twitter.com/search?q=%2523plottertwitter) and [#py5](https://twitter.com/search?q=%2523py5).
 
 
 ## Other useful resources
