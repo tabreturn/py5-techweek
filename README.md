@@ -69,7 +69,6 @@ Also, check Twitter for [#plottertwitter](https://twitter.com/search?q=%2523plot
 Other useful plotter and Python creative coding resources:
 
 * [Villares' comprehensive list of resources](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table) for teaching programming for artists, designers, and architects
-
 * [PlotterFiles](https://plotterfiles.com/) hosts free SVG files for plotters and drawing robots
 
 [Learn Python Visually](https://nostarch.com/Learn-Python-Visually) is a book based on [Processing.py](https://py.processing.org/), but it should be relatively straightforward to adapt the content for py5. Everything `camelCase` switches to `snake_case` -- so, `colorMode()` becomes `color_mode()`, and so forth. The book's [official resources](https://github.com/tabreturn/processing.py-book) include all of the code examples and solutions.
