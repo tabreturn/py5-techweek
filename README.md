@@ -5,9 +5,9 @@
 ![](banner.png)
 
 
-## Session activities and materials
+## Session materials and activities
 
-Here are the [session slides](https://raw.githubusercontent.com/tabreturn/py5-techweek/main/slides.odp) (OpenDocument presentation format) and [session recording](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tabreturn/py5-techweek/main/recording.html) (MP4).
+Here are the [session slides](./slides.odp) (OpenDocument presentation format) and [session recording](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tabreturn/py5-techweek/main/recording.html) (MP4).
 
 Here are the files for each task:
 
@@ -24,8 +24,7 @@ If you're looking for a more advanced follow-on to this session, you can watch t
 
 * [py5 cheatsheet](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf)
 * [py5 documentation](http://py5.ixora.io/)
-* [py5 examples](https://github.com/hx2A/py5examples)
-* [py5 discussions/forum](https://github.com/hx2A/py5generator/discussions)
+* [py5 discussions](https://github.com/hx2A/py5generator/discussions)
 * [thonny-py5mode plug-in](https://github.com/tabreturn/thonny-py5mode)
 
 The [Processing forum](https://discourse.processing.org/c/processing-py/9) is also great for help with anything Processing + Python related.
@@ -74,6 +73,4 @@ Other useful plotter and Python creative coding resources:
 
 * [PlotterFiles](https://plotterfiles.com/) hosts free SVG files for plotters and drawing robots
 
-[Learn Python Visually](https://nostarch.com/Learn-Python-Visually) is a book based on [Processing.py](https://py.processing.org/), but it should be relatively straight-forward adapting the content for py5. Everything `camelCase` switches to `snake_case` -- so, `colorMode()` becomes `color_mode()`, and so forth. There is ~~a plan~~ hope to adapt the book for py5 in 2022/23.
-
-* Learn Python Visually [GitHub repository](https://github.com/tabreturn/processing.py-book) for the book's official resources and code, as well as solutions to challenges.
+[Learn Python Visually](https://nostarch.com/Learn-Python-Visually) is a book based on [Processing.py](https://py.processing.org/), but it should be relatively straightforward to adapt the content for py5. Everything `camelCase` switches to `snake_case` -- so, `colorMode()` becomes `color_mode()`, and so forth. The book's [official resources](https://github.com/tabreturn/processing.py-book) include all of the code examples and solutions.
