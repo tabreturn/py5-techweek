@@ -1,5 +1,5 @@
 size(420*2, 297*2)
-#size(420*2, 297*2, SVG, 'plot_me.svg')
+#size(420*2, 297*2, SVG, 'plot_me.svg')  # uncomment for svg
 
 columns = 10
 rows = 5
@@ -14,6 +14,8 @@ for row in range(rows):
         line(0, 0, tile_width, tile_height)
         circle(30, 20, 10)
         reset_matrix()
+
+#exit_sketch()  # uncomment for svg
 
 
 # vpype is a veritable swiss army knife for plotter-ready vector graphics
