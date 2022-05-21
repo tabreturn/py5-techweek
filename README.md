@@ -9,12 +9,12 @@ Event details: https://techweek.co.nz/whats-on/programme/view/pen-plotting-weavi
 
 ## Session materials and activities
 
-Here are the [session slides](./slides.odp) (OpenDocument presentation format) and [session recording](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tabreturn/py5-techweek/main/recording.html) (MP4).
-
 Here are the files for each task:
 
 * **Task 1: Drawing with py5** -- [01-drawing.py](https://github.com/tabreturn/py5-techweek/blob/main/tasks/01-drawing.py)
 * **Task 2: Weaving Template** -- [02-template.py](https://github.com/tabreturn/py5-techweek/blob/main/tasks/02-template.py)
+
+Here are the slides for the session intro [./slides.odp](./slides.odp) (OpenDocument presentation format).
 
 If you're looking for a more advanced follow-on to this session, you can watch the *Virtual CC Fest 2022* session on [Generating SVG for Pen Plotters using Python](https://github.com/tabreturn/cc-fest-plotter).
 
