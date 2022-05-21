@@ -9,6 +9,7 @@ tile_height = height/rows
 for row in range(rows):
     for column in range(columns):
         translate(column*tile_width, row*tile_height)
+        no_fill()
         # your code goes here
         rect(0, 0, tile_width, tile_height)
         line(0, 0, tile_width, tile_height)
