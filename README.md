@@ -9,7 +9,7 @@ Event details: https://techweek.co.nz/whats-on/programme/view/pen-plotting-weavi
 
 ## Session materials and activities
 
-Here are the [session slides](./slides.odp) (OpenDocument presentation format) and [session recording](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tabreturn/py5-techweek/main/recording.html) (MP4).
+Here are the [session slides](https://github.com/tabreturn/py5-techweek/raw/main/slides.odp) (OpenDocument presentation format) and [session recording](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tabreturn/py5-techweek/main/recording.html) (MP4).
 
 Here are the files for each task:
 
